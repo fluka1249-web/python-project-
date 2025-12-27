@@ -1,0 +1,47 @@
+{
+  "best": 60,
+  "top": [
+    {
+      "score": 60,
+      "time": "2025-12-27 16:02:57"
+    },
+    {
+      "score": 40,
+      "time": "2025-12-27 16:03:18"
+    },
+    {
+      "score": 10,
+      "time": "2025-12-27 16:03:33"
+    },
+    {
+      "score": 10,
+      "time": "2025-12-27 16:03:45"
+    },
+    {
+      "score": 0,
+      "time": "2025-12-27 16:02:30"
+    },
+    {
+      "score": 0,
+      "time": "2025-12-27 16:02:37"
+    },
+    {
+      "score": 0,
+      "time": "2025-12-27 16:03:02"
+    },
+    {
+      "score": 0,
+      "time": "2025-12-27 16:03:25"
+    }
+  ],
+  "settings": {
+    "difficulty_name": "Insane",
+    "wrap_walls": false,
+    "obstacles": true,
+    "moving_obstacles": true,
+    "sound": true,
+    "level_mode": true,
+    "skin_index": 0,
+    "custom_colors": {}
+  }
+}
